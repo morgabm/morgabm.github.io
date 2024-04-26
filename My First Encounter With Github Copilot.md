@@ -1,3 +1,9 @@
+# So I tried github copilot for the first time...
+
+Honestly, I think the chat/conversation feature is more valuable than the code suggestion. It helps you work through a problem like you would with another engineer except they are at an almost omnipotent level.
+
+# Transcript of my chat with copilot
+
 **Me**
 
 What is a good approach to VkPhysicalDevice selection
